@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Vignesh G</h1>
-<h3 align="center">A passionate Mern Stack Developer from India</h3>
+<h3 align="center">A passionate Mern Stack Developer from India, who likes to work with new technologies and people with new ideas.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshg-vicky&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshg-vicky" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vigneshg-vicky" alt="vigneshg-vicky" /></a> </p>
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🔭 I’m currently working on [College Management System](https://github.com/Vigneshg-vicky/College-Management-System)
+
+- 🌱 I’m currently learning **Mern Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vigneshg-vicky](https://github.com/Vigneshg-vicky)
 
-- 👋 You can connect me on LinkedIn via [https://www.linkedin.com/in/vigneshgnair/](https://www.linkedin.com/in/vigneshgnair/)
+- 👋 You can connect me on LinkedIn via [https://www.linkedin.com/in/vigneshgnair/](Ahttps://www.linkedin.com/in/vigneshgnair/)
 
 - 💬 Ask me about **React,Javascript,Node JS,Express,Typescript and Docker**
 
@@ -19,9 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/vigneshgvicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/vigneshgvicky" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vigneshgnair/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vigneshgnair/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/vigneshg-vicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/vigneshg-vicky" height="30" width="40" /></a>
+<a href="https://dev.to/vigneshgvicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vigneshgvicky" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vigneshgnair/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vigneshgnair/" height="30" width="40" /></a>
+<a href="https://codesandbox.com/vigneshg-vicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vigneshg-vicky" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
